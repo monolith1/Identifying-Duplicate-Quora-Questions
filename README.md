@@ -2,13 +2,13 @@
 
 Identification of duplicate questions on Quora, a popular website where users seek answers to specific questions.
 
-![Header Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quora.com%2FHow-does-Quora-avoid-duplicate-questions&psig=AOvVaw3m_D_zl6wNXPIGa3x7XWma&ust=1644000986387000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjL1Iib5PUCFQAAAAAdAAAAABAD)
+![Header Image](https://qph.fs.quoracdn.net/main-qimg-98bcd12eeefce664a95e35366b69af92-c)
 
 ## Problem Domain
 
 Over 100 million people visit Quora every month, so it's no surprise that many people ask similar (or the same) questions. Various questions with the same intent can cause people to spend extra time searching for the best answer to their question, and results in members answering multiple versions of the same question.
 
-By identifying these duplicate questions, we can significantly improve the user experience by delivering higher quality content. Rather than having to reference multiple ways of asking the same question, all of the answers will be in once place. This also works to reduce the operational overhead of having duplicate assets. 
+By identifying these duplicate questions, we can significantly improve the user experience by delivering higher quality content. Rather than having to reference multiple ways of asking the same question, all of the answers will be in one place. This also works to reduce the operational overhead of having duplicate assets. 
 
 This approach is being used here to isolate duplicate questions, however, it is easy to imagine it applied to areas such as user support or search optimization.
 
